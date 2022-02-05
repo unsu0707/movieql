@@ -1,0 +1,22 @@
+{
+  "name": "movieql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unsu0707/movieql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unsu0707/movieql/issues"
+  },
+  "homepage": "https://github.com/unsu0707/movieql#readme",
+  "dependencies": {
+    "graphql-yoga": "^0.0.0"
+  }
+}
